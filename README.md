@@ -1,1 +1,1 @@
-# BIS-244-Fall-2022-HempsteadTrevor
+# BIS-244-Fall-2022-hempsteadtrevor
