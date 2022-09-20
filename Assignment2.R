@@ -13,6 +13,7 @@ filter(DataSet1, state=='Pennsylvania') #Part 2
 PennData <- filter(DataSet1, state=='Pennsylvania')
 
 
+#Failure to implement for() loop successfully: -10 
 incr_cases <- diff(PennData$cases)
 incr_cases <- c(0, incr_cases)
 PennData$incr_cases <- incr_cases
