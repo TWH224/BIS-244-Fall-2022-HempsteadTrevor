@@ -1,5 +1,7 @@
 #Trevor Hemsptead
 
+DataSet1 <- read.csv(here("covid-19-data","us-states.csv")) #correct way to read csv for future reference
+
 DataSet1 <- read.csv("us-states.csv") #Part 1
 
 install.packages('dplyr')
